@@ -1,7 +1,7 @@
-package org.example.filter;
+package com.gridnine.testing.filter;
 
 
-import org.example.Flight;
+import com.gridnine.testing.Flight;
 
 import java.util.List;
 

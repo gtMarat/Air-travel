@@ -1,4 +1,4 @@
-package org.example;
+package com.gridnine.testing;
 
 import java.util.List;
 import java.util.stream.Collectors;

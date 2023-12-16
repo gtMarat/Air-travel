@@ -1,8 +1,8 @@
-package org.example.filter;
+package com.gridnine.testing.filter;
 
 
-import org.example.Flight;
-import org.example.Segment;
+import com.gridnine.testing.Flight;
+import com.gridnine.testing.Segment;
 
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;

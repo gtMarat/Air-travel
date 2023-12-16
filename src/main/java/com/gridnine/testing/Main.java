@@ -1,9 +1,9 @@
-package org.example;
+package com.gridnine.testing;
 
-import org.example.filter.FilterDepartureBeforeArrival;
-import org.example.filter.FilterDepartureNotBeforeAppointedTime;
-import org.example.filter.FilterFlights;
-import org.example.filter.FilterHoursOnLand;
+import com.gridnine.testing.filter.FilterDepartureBeforeArrival;
+import com.gridnine.testing.filter.FilterDepartureNotBeforeAppointedTime;
+import com.gridnine.testing.filter.FilterFlights;
+import com.gridnine.testing.filter.FilterHoursOnLand;
 
 import java.time.LocalDateTime;
 import java.util.List;
